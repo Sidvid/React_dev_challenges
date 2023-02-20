@@ -1,0 +1,28 @@
+.cities_name {
+  border: solid magenta;
+ 
+
+
+}
+.chip {
+  border: solid blue;
+  width: 72px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: aliceblue;
+  margin-left: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.cross {
+  cursor: pointer;
+}
+.selected_cities{
+  border:  solid mediumaquamarine;
+  display: flex;
+  flex-wrap: wrap;
+
+}
