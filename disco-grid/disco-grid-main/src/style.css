@@ -1,0 +1,16 @@
+.wrapper {
+  border: solid red;
+  width: 100vw;
+  height: 60vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  flex-direction: row;
+}
+.box{
+  border: solid;
+  width: 10px;
+  height: 10px;
+  transition: all 100ms ease-in-out;
+}
+
